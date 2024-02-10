@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ratul Hasan Ruhan</h1>
-<h3 align="center">A passionate mobile application developer from Bangladesh</h3>
+<h3 align="center">Turning Code into Mobile Marvels ✨</h3>
 
-- 🔭 I’m currently working on **Blood Donation App**
+- 🔭 I’m currently working on **Forex Trading App**
 
-- 🌱 I’m currently learning **Laravel, Lumen**
+- 🌱 I’m currently learning **C, C++**
 
 - 👯 I’m looking to collaborate on [Productive Muslim](https://play.google.com/store/apps/details?id=com.muslim.productive)
 
-- 👨‍💻 All of my projects are available at [https://ratulhasan.me/portfolio](https://ratulhasan.me/portfolio)
+- 👨‍💻 All of my projects are available at [https://ratulicious.me/portfolio](https://ratulicious.me)
 
 - 📝 I regularly write articles on [https://banglay.tech/](https://banglay.tech/)
 
-- 💬 Ask me about **Flutter, Dart, Android, Firebase**
+- 💬 Ask me about **Flutter, Dart, Android, iOS**
 
-- 📫 How to reach me **hello@ratulhasan.me**
+- 📫 How to reach me **hello@ratulicious.me**
 
-- 📄 Know about my experiences [https://ratulhasan.me/about](https://ratulhasan.me/about)
+- 📄 Know about my experiences [https://ratulicious.me/about](https://ratulicious.me/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
