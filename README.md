@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ratulicious.me/portfolio](https://ratulicious.me)
 
-- 📝 I regularly write articles on [https://banglay.tech/](https://banglay.tech/)
+- 📝 I regularly write articles on [https://ratulhasanruhan.hashnode.dev/](https://ratulhasanruhan.hashnode.dev/)
 
 - 💬 Ask me about **Flutter, Dart, Android, iOS**
 
