@@ -6,7 +6,7 @@
 ## 👋 Hello, I'm Ratul  
 **Software Engineer | Tech Enthusiast | AI Explorer**
 
-I specialize in building scalable, efficient, and user-friendly mobile, web, and desktop applications. I’m working remotely as a Flutter Developer at **Emerge AI**, where I focus on integrating AI into user-centered solutions. I believe that software should be elegant, intuitive, and empowering.
+I specialise in building scalable, efficient, user-friendly mobile, web, and desktop applications. I work remotely as a Flutter Developer at Emerge AI, where I focus on integrating AI into user-centred solutions. I believe that software should be elegant, intuitive, and empowering.
 
 ---
 
@@ -39,7 +39,7 @@ I specialize in building scalable, efficient, and user-friendly mobile, web, and
 
 - ✅ Proven record of delivering high-performance, well-architected applications
 - 🎙 Speaker & contributor in developer communities across Bangladesh
-- 🧪 Deeply interested in the fusion of AI, software, and human-centered design
+- 🧪 Deeply interested in the fusion of AI, software, and human-centred design
 
 ---
 
@@ -52,7 +52,7 @@ I specialize in building scalable, efficient, and user-friendly mobile, web, and
 
 ### 📫 Reach Out
 
-- 🌐 [Portfolio](https://ratulhasan.link)  
+- 🌐 [Portfolio](https://ratulhasanruhan.github.io)  
 - 📩 [ratulhasan1644@gmail.com](mailto:ratulhasan1644@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ratul-hasan-ruhan/)
 
