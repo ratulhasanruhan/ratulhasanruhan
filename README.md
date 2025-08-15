@@ -6,7 +6,7 @@
 ## 👋 Hello, I'm Ratul  
 **Software Engineer | Tech Enthusiast | AI Explorer**
 
-I specialise in building scalable, efficient, user-friendly mobile, web, and desktop applications. I work remotely as a Flutter Developer at Emerge AI, where I focus on integrating AI into user-centred solutions. I believe that software should be elegant, intuitive, and empowering.
+I specialise in building scalable, efficient, user-friendly mobile, web, and desktop applications. I work remotely as a Software Engineer at Solution Explorer, focusing on developing AI and IoT devices into user-centred solutions. I believe that software should be elegant, intuitive, and empowering.
 
 ---
 
