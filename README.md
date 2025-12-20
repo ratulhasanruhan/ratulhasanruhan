@@ -4,7 +4,7 @@
 </p>
 
 ## 👋 Hello, I'm Ratul  
-**Software Engineer & Systems Builder**
+#### **Software Engineer & Systems Builder**
 
 I’m a software engineer working across **mobile**, **web**, **desktop**, **embedded systems**, and **core computer science** domains. I started with Android development and gradually expanded into cross-platform engineering, applied AI/ML, systems programming, and infrastructure work.
 
