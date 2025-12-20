@@ -6,16 +6,20 @@
 ## 👋 Hello, I'm Ratul  
 **Software Engineer | Tech Enthusiast | AI Explorer**
 
-I specialise in building scalable, efficient, user-friendly mobile, web, and desktop applications. I work remotely as a Software Engineer at Solution Explorer, focusing on developing AI and IoT devices into user-centred solutions. I believe that software should be elegant, intuitive, and empowering.
+I’m a software engineer working across **mobile**, **web**, **desktop**, **embedded systems**, and **core computer science** domains. I started with Android development and gradually expanded into cross-platform engineering, applied AI/ML, systems programming, and infrastructure work.
+
+I’m particularly interested in how software systems are designed, how components interact, and how research ideas translate into reliable, real-world applications. I value clarity, maintainability, and thoughtful engineering over quick fixes.
 
 ---
 
 ### 💼 Areas of Expertise
 
-- 📱 **Cross-platform Development** with Flutter & Firebase  
-- 🌍 **Web & Desktop Applications** using modern tech stacks  
-- 🧠 **Applied AI/ML** in real-world tools and services  
-- 🎨 **Clean Architecture & Performance Optimization**
+- Product & systems engineering
+- Mobile and cross-platform development
+- Desktop and systems programming
+- Applied AI/ML
+- Embedded systems and IoT
+- DevOps and infrastructure
 
 ---
 
@@ -52,8 +56,8 @@ I specialise in building scalable, efficient, user-friendly mobile, web, and des
 
 ### 📫 Reach Out
 
-- 🌐 [Portfolio](https://ratulhasanruhan.github.io)  
-- 📩 [ratulhasan1644@gmail.com](mailto:ratulhasan1644@gmail.com)  
+- 🌐 [Portfolio](https://ratuler.vercel.app/)  
+- 📩 [ratulhasanruhan@gmail.com](mailto:ratulhasanruhan@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ratul-hasan-ruhan/)
 
 ---
